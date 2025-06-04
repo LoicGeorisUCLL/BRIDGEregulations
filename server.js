@@ -15,27 +15,22 @@ const DATA_FILE = path.join(__dirname, 'data', 'regulations.json');
 const defaultRegulations = [
     {
         id: 1,
-        content: "All employees must maintain professional behavior at all times. This includes respectful communication, appropriate dress code, and courteous interaction with colleagues, clients, and visitors. Harassment, discrimination, or unprofessional conduct will not be tolerated.",
+        content: "All seasonal workers stayin for more than 3 months must be registered with the local authorities.",
         createdAt: new Date().toISOString()
     },
     {
         id: 2,
-        content: "Employees are expected to arrive on time and maintain regular attendance. Work hours are from 9:00 AM to 5:00 PM, Monday through Friday. Any absences or tardiness must be reported to your supervisor at least 2 hours in advance when possible.",
+        content: "All seasonal workers must have a valid work contract issued by their employer.",
         createdAt: new Date().toISOString()
     },
     {
         id: 3,
-        content: "All company data, client information, and proprietary materials must be kept strictly confidential. Employees must use strong passwords, secure their workstations when away, and never share sensitive information with unauthorized personnel or external parties.",
+        content: "All seasonal workers must have health insurance coverage for the duration of their stay.",
         createdAt: new Date().toISOString()
     },
     {
         id: 4,
-        content: "Safety is our top priority. Employees must follow all safety protocols, report hazards immediately, keep work areas clean and organized, and participate in safety training programs. Emergency procedures must be followed without exception.",
-        createdAt: new Date().toISOString()
-    },
-    {
-        id: 5,
-        content: "Company technology and internet access are provided for business purposes. Personal use should be minimal and not interfere with work productivity. Installation of unauthorized software, accessing inappropriate websites, or using company devices for illegal activities is prohibited.",
+        content: "All seasonal workers must have a bank account in the country of employment to receive their wages.",
         createdAt: new Date().toISOString()
     }
 ];
