@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "content": "All employees must maintain professional behavior at all times. This includes respectful communication, appropriate dress code, and courteous interaction with colleagues, clients, and visitors. Harassment, discrimination, or unprofessional conduct will not be tolerated.",
+    "createdAt": "2025-06-04T13:36:38.893Z",
+    "lastModified": "2025-06-04T13:37:14.776Z"
+  },
+  {
+    "id": 2,
+    "content": "Employees are expected to arrive on time and maintain regular attendance. Work hours are from 9:00 AM to 5:00 PM, Monday through Friday. Any absences or tardiness must be reported to your supervisor at least 2 hours in advance when possible.",
+    "createdAt": "2025-06-04T13:36:38.893Z",
+    "lastModified": "2025-06-04T13:37:14.776Z"
+  },
+  {
+    "id": 3,
+    "content": "All company data, client information, and proprietary materials must be kept strictly confidential. Employees must use strong passwords, secure their workstations when away, and never share sensitive information with unauthorized personnel or external parties.",
+    "createdAt": "2025-06-04T13:36:38.893Z",
+    "lastModified": "2025-06-04T13:37:14.776Z"
+  },
+  {
+    "id": 4,
+    "content": "Safety is our top priority. Employees must follow all safety protocols, report hazards immediately, keep work areas clean and organized, and participate in safety training programs. Emergency procedures must be followed without exception.",
+    "createdAt": "2025-06-04T13:36:38.893Z",
+    "lastModified": "2025-06-04T13:37:14.776Z"
+  },
+  {
+    "id": 5,
+    "content": "Company technology and internet access are provided for business purposes. Personal use should be minimal and not interfere with work productivity. Installation of unauthorized software, accessing inappropriate websites, or using company devices for illegal activities is prohibited.",
+    "createdAt": "2025-06-04T13:36:38.893Z",
+    "lastModified": "2025-06-04T13:37:14.776Z"
+  }
+]
